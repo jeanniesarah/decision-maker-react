@@ -1,6 +1,8 @@
 {
-  "name": "indecision-react-app",
+  "name": "decision-maker-react",
   "version": "1.0.0",
+  "description": "React App that makes decisions for you",
+  "author": "Jeannie",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
